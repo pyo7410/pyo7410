@@ -68,6 +68,9 @@ Here are some ideas to get you started:
 
 <br/>  
 
+## BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pyo7410)](https://solved.ac/pyo7410/)
+<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
