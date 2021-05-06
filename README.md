@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Seongpyo Jo!  
 - I love coding
-- I' am interested in backend and frontend
+- I'm interested in backend and frontend
 - I'm interested in deep learning recently, so I'm planning to learn it.
   
   
