@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-### 📚 Education  
+### 📚 Education
 - 삼성 청년 SW 아카데미(SSAFY) - 5th (Jan 2021 ~ )
 - K-MOOC - 빅데이터와 머신러닝 소프트웨어 (Mar 2 ~ Apr 27, 2021)  
   
