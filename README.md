@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 ### Hello, I'm Seongpyo Jo!  
 - I love coding
 - I'm interested in backend and frontend
-- I'm interested in deep learning recently, so I'm planning to learn it.
   
   
 
@@ -46,7 +45,6 @@ Here are some ideas to get you started:
 
 ### 📚 Education
 - 삼성 청년 SW 아카데미(SSAFY) - 5 (Jan 2021 ~ )
-- K-MOOC - 빅데이터와 머신러닝 소프트웨어 (Mar 2 ~ Apr 27, 2021)  
   
 
 <br/>  
