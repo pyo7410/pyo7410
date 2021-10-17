@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### Hi There 👋  
   
 
-- ### 📄 [Portfolio](https://programmers.co.kr/pr/pyo7410_5830)
+- ### 📄 [Profile](https://programmers.co.kr/pr/pyo7410_5830)
 - ### 👍 [Here's my Blog](https://comgong-man.tistory.com/) 
   
 
