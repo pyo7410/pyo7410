@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Seongpyo Jo!  
 - I love coding
-- I'm interested in backend and frontend
+- I'm interested in backend
   
   
 
