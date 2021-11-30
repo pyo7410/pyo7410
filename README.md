@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 ### 📚 Education
-- 삼성 청년 SW 아카데미(SSAFY) - 5 (Jan 2021 ~ )
+- 삼성 청년 SW 아카데미(SSAFY) - 5 (Jan 2021 ~ Nov 2021)
   
 
 <br/>  
